@@ -3,7 +3,9 @@
   "version": "0.2.1",
   "description": "QR Code reader for AngularJS, powered by Lazarsoft QR parser.",
   "main": "dist/bc-qr-reader.js",
-  "dependencies": {},
+  "dependencies": {
+    "jsqrcode": "0.0.7"
+  },
   "devDependencies": {
     "coffee-script": "^1.9.1",
     "grunt": "~0.4.5",

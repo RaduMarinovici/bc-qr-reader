@@ -30,14 +30,7 @@ Include `dist/bc-qr-reader.js` as well as `bower_components/webcam-directive/app
 ></bc-qr-reader>
 ```
 
-## Development
-
-```sh
-npm install
-cd src && git clone https://github.com/blockchain/jsqrcode
-```
-
-## Update bower package
+## Build
 
 ```sh
 npm install
